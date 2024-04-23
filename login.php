@@ -1,6 +1,7 @@
 <php>
 <html>
-  <head>yow menn
+  <head>
+    <title>saya sekolah</title>
   </head>
 
   <body>
