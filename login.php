@@ -1,3 +1,4 @@
+<php>
 <html>
   <head>yow menn
   </head>
@@ -6,3 +7,4 @@
     <h1>saya ganteng<h1>
   </body>
 </html>
+    </php>
