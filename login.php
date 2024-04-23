@@ -5,7 +5,7 @@
   </head>
 
   <body>
-    <h1>saya ganteng<h1>
+   <footer>saya</footer>
   </body>
 </html>
 ></php>
