@@ -1,4 +1,4 @@
-<php
+<php>
 <html>
   <head>
     <title>yow menn</title>
